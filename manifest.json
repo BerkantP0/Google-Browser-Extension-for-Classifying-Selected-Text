@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3, // Manifest version for Chrome extensions
+  "name": "Selected Text Displayer", // Name of the Chrome extension
+  "version": "1.0", // Version number of the extension
+  "description": "A Chrome extension that displays the selected text by the user.", // Description of the extension
+  "permissions": ["activeTab"], // Permissions required for the extension (here, access to active tabs)
+  "content_scripts": [ // Content scripts that run in the context of web pages
+    {
+      "matches": ["<all_urls>"], // Match all URLs
+      "js": ["content.js"] // JavaScript file to be injected into pages
+    }
+  ]
+}
