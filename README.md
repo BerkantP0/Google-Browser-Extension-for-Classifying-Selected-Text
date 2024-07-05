@@ -13,7 +13,7 @@ Ensure the following files are placed in a directory:
 - `content.js`: JavaScript content script for the Chrome extension.
 - `manifest.json`: Manifest file that defines the extension.
 - `model.h5`: Example model file (replace with your actual model file).
-- `veriseti.csv`: Example dataset file (replace with your actual dataset).
+- `dataset.csv`: Example dataset file (replace with your actual dataset).
 
 ### Chrome Extension Installation
 
