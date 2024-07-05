@@ -1,4 +1,7 @@
 # Google Extension That Classifies Selected Turkish Text Based On Toxicity
+
+This project involves developing a Google Chrome extension that allows users to classify selected text on web pages. The extension leverages machine learning algorithms to analyze the content and categorize it based on predefined criteria such as sentiment, topic, or presence of hate speech. Users can select any text segment on a webpage, and the extension will provide real-time classification results, enhancing the browsing experience by offering immediate insights into the nature of the content.
+
 ## Setting Up a Chrome Extension with Local API
 
 
