@@ -1,4 +1,4 @@
-# Google-Browser-Extension-for-Classifying-Selected-Text-NLP
+# Google Extension That Classifies Selected Turkish Text Based On Toxicity
 ## Setting Up a Chrome Extension with Local API
 
 
