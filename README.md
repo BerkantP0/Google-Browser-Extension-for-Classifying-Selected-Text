@@ -2,7 +2,8 @@
 ## Setting Up a Chrome Extension with Local API
 
 
-## Project Setup
+## Dataset
+[Toxic Comment Detection Multilingual [Extended]](https://www.kaggle.com/datasets/alansun17904/toxic-comment-detection-multilingual-extended)
 
 ### Files Required
 
