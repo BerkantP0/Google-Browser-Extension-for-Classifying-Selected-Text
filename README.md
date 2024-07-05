@@ -1,7 +1,6 @@
 # Google-Browser-Extension-for-Classifying-Selected-Text-NLP
-# Setting Up a Chrome Extension with Local API
+## Setting Up a Chrome Extension with Local API
 
-This project demonstrates how to set up a Chrome extension that interacts with a local API using Python.
 
 ## Project Setup
 
